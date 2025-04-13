@@ -67,3 +67,7 @@ Simular ataques avanzados sobre un entorno Windows AD utilizando técnicas de ge
 Este proyecto fue desarrollado exclusivamente con fines educativos y en un entorno controlado.  
 No debe ser aplicado en sistemas reales sin autorización expresa.
 
+---
+
+Este proyecto fue realizado como parte de un proceso formativo. La máquina analizada es de acceso público y el contenido aquí compartido es de elaboración propia, con fines educativos y demostrativos.
+
